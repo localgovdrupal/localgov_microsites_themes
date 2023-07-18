@@ -1,0 +1,11 @@
+{
+    "name": "localgovdrupal/localgov_microsites_themes",
+    "description": "Sample themes for LocalGov Drupal Microsites.",
+    "type": "drupal-theme",
+    "homepage": "https://github.com/localgovdrupal/localgov_microsites_base",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "localgovdrupal/localgov_base": "^1.0.0",
+        "localgovdrupal/localgov_microsites_base": "^2.0.0-beta1"
+    }
+}
