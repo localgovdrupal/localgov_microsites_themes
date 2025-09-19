@@ -11,7 +11,7 @@ A collection of themes that you can use in your microsites. Each one of these is
 ## How do I use these?
 1. Go to /admin/appearance
 2. **Enable** each theme; **do not** choose _Enable and set as default_.
-3. Go to the **Site Settings** page of your micrsoite and on the **Theme override** tab choose the theme you want from the **Default theme** select list.
+3. Go to the **Site Settings** page of your microsite and on the **Theme override** tab choose the theme you want from the **Default theme** select list.
 
 ## Maintainers
 - Mark Conroy
